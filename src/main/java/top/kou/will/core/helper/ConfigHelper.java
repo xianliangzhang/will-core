@@ -1,4 +1,4 @@
-package top.kou.core.helper;
+package top.kou.will.core.helper;
 
 import com.mysql.jdbc.StringUtils;
 import org.apache.log4j.Logger;

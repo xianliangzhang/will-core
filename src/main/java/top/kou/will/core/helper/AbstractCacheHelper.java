@@ -1,4 +1,4 @@
-package top.kou.core.helper;
+package top.kou.will.core.helper;
 
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.apache.ibatis.session.SqlSessionFactoryBuilder;

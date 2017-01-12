@@ -1,4 +1,4 @@
-package top.kou.core.rmi.inter.transfer.model;
+package top.kou.will.core.rmi.inter.transfer.model;
 
 import java.io.File;
 import java.io.FileInputStream;

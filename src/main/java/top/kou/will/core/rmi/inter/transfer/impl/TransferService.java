@@ -1,6 +1,6 @@
-package top.kou.core.rmi.inter.transfer.impl;
+package top.kou.will.core.rmi.inter.transfer.impl;
 
-import top.kou.core.rmi.inter.transfer.ITransferService;
+import top.kou.will.core.rmi.inter.transfer.ITransferService;
 
 import java.io.File;
 import java.io.FileOutputStream;

@@ -1,6 +1,6 @@
-package top.kou.core.rmi.inter.message.model;
+package top.kou.will.core.rmi.inter.message.model;
 
-import top.kou.core.helper.ConfigHelper;
+import top.kou.will.core.helper.ConfigHelper;
 
 import java.io.Serializable;
 import java.util.UUID;

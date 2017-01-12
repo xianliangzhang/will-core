@@ -1,6 +1,6 @@
-package top.kou.core.rmi.inter.message.impl;
+package top.kou.will.core.rmi.inter.message.impl;
 
-import top.kou.core.rmi.inter.message.IMessageService;
+import top.kou.will.core.rmi.inter.message.IMessageService;
 
 import java.io.Serializable;
 import java.rmi.RemoteException;

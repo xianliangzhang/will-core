@@ -1,7 +1,7 @@
-package top.kou.core.rmi.skeleton;
+package top.kou.will.core.rmi.skeleton;
 
 import org.apache.log4j.Logger;
-import top.kou.core.helper.ConfigHelper;
+import top.kou.will.core.helper.ConfigHelper;
 
 import java.rmi.Naming;
 import java.rmi.Remote;

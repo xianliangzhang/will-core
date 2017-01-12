@@ -1,7 +1,7 @@
-package top.kou.core.rmi;
+package top.kou.will.core.rmi;
 
-import top.kou.core.rmi.inter.transfer.ITransferService;
-import top.kou.core.rmi.skeleton.ClientRepertory;
+import top.kou.will.core.rmi.inter.transfer.ITransferService;
+import top.kou.will.core.rmi.skeleton.ClientRepertory;
 
 import java.io.FileInputStream;
 

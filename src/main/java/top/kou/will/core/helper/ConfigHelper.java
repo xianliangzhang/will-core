@@ -69,6 +69,12 @@ public class ConfigHelper {
         return v;
     }
 
+    // 当配置项为空时，返回默认值
+    public static String getIfEmpty(String key, String defaultValue) {
+        String v = get(key);
+        return null == v || "".equals(v) ? defaultValue : v;
+    }
+
     // 判断属性key是否存在
     public static boolean containsKey(String key) {
         return properties.containsKey(key);

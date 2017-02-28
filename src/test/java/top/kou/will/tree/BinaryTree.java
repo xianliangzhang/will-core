@@ -109,6 +109,6 @@ public class BinaryTree {
         TreeNode tree = ThreeFactory.generateBinaryTree();
         //preOrderIterator(tree);
         //inOrderIterator(tree);
-        postOrderIterator(tree);
+        //postOrderIterator(tree);
     }
 }
